@@ -8,7 +8,7 @@ site: distill::distill_website
 
 
 ```{r, echo=FALSE, out.width = "50%"}
-knitr::include_graphics("me2.png")
+knitr::include_graphics("images/index/me2.png")
 
 ```
 
