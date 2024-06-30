@@ -1,0 +1,52 @@
+---
+title: "BioFB"
+
+---
+
+
+<div style="text-align: center; padding-top: 2em; font-size: 2.2em; font-family: sans-serif;">
+
+VR Training for MRI Anxiety
+
+</div>
+
+<div style="text-align: center; font-size: 0.6em; color: #666; margin-top: 0.5em; margin-bottom: 1em;"> MRI SCANNER RECORDED AT UNIVERSITY HOSPITAL BASEL | RECORDED BY FABIAN MUELLER </div>
+
+
+
+```{r, echo=FALSE}
+knitr::include_graphics("images/MRI.png")
+
+```
+
+<div style="text-align: justified; font-size: 1em;">
+Immerse yourself in a virtual MRI environment designed to alleviate fears and enhance comfort. Our VR simulations offer a safe, controlled space to acclimate to MRI procedures, enabling a more relaxed and confident experience when it counts. 
+</div>
+
+<hr style="width:60%;">
+
+<div style="text-align: center; font-size: 1.5em;">
+<br>
+More information coming soon. 
+</div>
+
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{css}
+d-title {
+    display: none;
+  }
+```
+
+
+```{css}
+table {
+  border-bottom: none !important;
+}
+
+```

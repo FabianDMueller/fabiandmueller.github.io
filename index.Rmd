@@ -1,0 +1,39 @@
+---
+title: "Hello."
+site: distill::distill_website
+---
+
+
+<div style="text-align: center; padding-top: 2em;">
+
+
+```{r, echo=FALSE, out.width = "50%"}
+knitr::include_graphics("me2.png")
+
+```
+
+
+My name is Fabian D. Mueller. I am a cognitive psychologist pursuing a PhD in Cognitive Neuroscience at the <a href="https://mcn.unibas.ch/de/">University of Basel</a>, Switzerland and <a href="https://campuspress.yale.edu/cannonlab/">Yale University</a>, USA. My broad aim is to develop straightforward and scalable <a href="https://www.sciencedirect.com/science/article/pii/S2666915323001658?via%3Dihub">treatment interventions</a> for mental health, using the potential of contemporary technologies, with a focus on immersive technologies like AR and VR. 
+
+
+
+With a background in Psychology, Philosophy, and Neuroscience, I am most fundamentally interested in understanding how our brains constructs our phenomenological reality. <br> To understand this, I study perceptual processing in individuals who perceive reality differently (i.e., psychosis). My approach embeds perceptual decision-making in virtual reality simulations of altered perception. 
+
+
+</div> 
+
+
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{css}
+d-title {
+    display: none;
+  }
+```
+
+

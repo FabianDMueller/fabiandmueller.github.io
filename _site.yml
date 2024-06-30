@@ -1,0 +1,50 @@
+name: "Fabian D Mueller"
+title: "Fabian D. Mueller"
+theme: theme.css
+description: |
+  Website
+output_dir: "docs"
+navbar:
+  logo:
+    image: me2.png
+    href: contact.html
+  left:
+  right:
+    - text: "Science"
+      menu:
+        - text: "Hallucinations ShortED"
+          href: hallus.html
+        - text: "Psychosis"
+          href: psychosis.html
+        - text: "Fearless Speech"
+          href: fearless.html
+        - text: "SciSmile"
+          href: scismile.html
+        - text: "Guided Breathing"
+          href: BioFB.html
+        - text: "Fearless MRI"
+          href: MRI.html
+    - text: "Arts"
+      menu:
+        - text: "Hoffmans's Ride"
+          href: hoffman.html
+        - text: "Scenic Architecture"
+          href: Aesthetics.html
+        - text: "Sound Figures"
+          href: plexus.html
+        - text: "Echtzeit"
+          href: echtzeit.html
+        - text: "Brüders et al."
+          href: music.html
+        - text: "LiveSet"
+          href: LiveSet.html
+        
+    - icon: fa-github fa-lg
+      href: https://github.com/FabianMuellerMCN  
+    - icon: ai ai-osf fa-lg
+      href: https://osf.io
+
+output: distill::distill_article 
+
+
+

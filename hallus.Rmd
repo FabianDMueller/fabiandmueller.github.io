@@ -1,0 +1,49 @@
+---
+title: "Hallus"
+---
+
+
+
+<div style="text-align: center; padding-top: 2em; font-size: 2.2em; font-family: 'sans-serif', sans-serif;">
+
+How does our brain shape what we see?
+<br><br>
+</div>
+
+<div style="text-align: center;font-size: .9em;">
+This video explains how scientists think hallucinations occur in the brain by introducing the <a href="https://pubmed.ncbi.nlm.nih.gov/38424472/">Predictive Processing</a> framework. The video was produced by the <a href="https://nmc.unibas.ch/en/">New Media Center </a> of the University of Basel.
+<br>
+<br>
+
+
+</div>
+
+
+<video width="100%" controls>
+  <source src="videos/Hallucinations.mp4" type="video/mp4"> </video>
+
+
+
+
+
+<div style="text-align: center; font-size: 0.6em; color: #666; margin-top: 0.5em; margin-bottom: 1em;"> IDEA: FABIAN MUELLER | PRODUCED: NEW MEDIA CENTER </div>
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{css}
+d-title {
+    display: none;
+  }
+```
+
+
+```{css}
+table {
+  border-bottom: none !important;
+}
+
+```

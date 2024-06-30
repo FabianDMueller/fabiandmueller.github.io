@@ -1,0 +1,43 @@
+---
+title: "Creating Aesthetical Experiences"
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r setup, include=FALSE}
+knitr::include_graphics("trial.png")
+```
+
+
+
+The best way to learn is to experience. This is why, I communicate our research to the broader community by creating immersive experiences. I am part of a collaborative artistic collective, focusing on creating audiovisual experiences and transforming spaces by making sound, visuals, and emotions work in unison. We produce audiovisual performances and immersive installations.
+
+
+```{r}
+# Load the magick package
+install.packages("magick")
+library(magick)
+
+# Read in your images
+image1 <- image_read("/Users/interface/Documents/GitHub/Webpage/images/3.png")
+image2 <- image_read("/Users/interface/Documents/GitHub/Webpage/images/2.png")
+# Add more images as needed
+
+# Combine your images into a grid
+image_grid <- image_append(c(image1, image2)) # Add more images as needed
+
+# Write the grid image to a file
+image_write(image_grid, "grid_image.png")
+
+```
+
+
+
+
+```{r, echo=FALSE, fig.width=4, fig.height=0.8}
+knitr::include_graphics("trial.png")
+```
+

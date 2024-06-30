@@ -1,0 +1,48 @@
+---
+title: "Sound Figures"
+
+---
+
+
+<div style="text-align: center; padding-top: 2em; font-size: 2.2em; font-family: 'sans-serif', sans-serif;">
+
+Sound Figures
+
+</div>
+
+<div style="text-align: justify; font-size: .9em;">
+  Audio Engineer <a href="https://www.discogs.com/de/artist/864606-Hannes-Kumke">Hannes Kumke</a>, who recorded and mastered some tracks of our album <i>Accretion Disk</i>, visualized our track <i>Plexus</i> using water and light to reflect what our track looks like. The idea is based on Alexander Lauterwasser's Kymatik-Cymatics - Sound Figures.
+  <br>
+   <br>
+  
+</div>
+
+<div style="text-align: center; font-size: 0.6em; color: #666; margin-top: 0.5em; margin-bottom: 1em;">
+  ELEKTRONICS: JOSUA WEHNER | DRUMS: FABIAN MUELLER | MASTERED AND VISUALIZED: HANNES KUMKE
+</div>
+
+<div style="text-align: center;">
+  <iframe width="100%" height="480" src="https://www.youtube.com/embed/HsPbmyWOio4?si=byrp3Anxf9gi9HWj&amp;start=127" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{css}
+d-title {
+    display: none;
+  }
+```
+
+
+```{css}
+table {
+  border-bottom: none !important;
+}
+
+```
