@@ -15,7 +15,7 @@ VR Training for MRI Anxiety
 
 
 ```{r, echo=FALSE}
-knitr::include_graphics("images/MRI.png")
+knitr::include_graphics("images/MRI/MRI.png")
 
 ```
 
