@@ -10,10 +10,8 @@ Slow-Paced Breathing in VR
 
 <div style="text-align: center; font-size: 0.6em; color: #666; margin-top: 0.5em; margin-bottom: 1em;"> VOICE: FABIAN MUELLER | EXTRA: AMIRA BÜTTNER | PRODUCED: NEW MEDIA CENTER UNIVERSITY OF BASEL </div>
 
-<video width="100%" autoplay muted>
-  <source src="videos/breathing.mp4" type="video/mp4">
-</video>
 
+<iframe width="560" height="415" src="https://https://youtu.be/QS4jsWk7jLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
