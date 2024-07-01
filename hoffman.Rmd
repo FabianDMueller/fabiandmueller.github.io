@@ -58,8 +58,7 @@ Here's the full video ...
 
 
 
-<video width="100%" controls>
-  <source src="videos/Ride_v4.mp4" type="video/mp4"> </video>
+<iframe width="560" height="415" src="https://www.youtube.com/embed/VQ64lW8_v_4?si=EgxfZeJZEEbocl1N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 <div style="text-align: center; font-size: .9em;">
