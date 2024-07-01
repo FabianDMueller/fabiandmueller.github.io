@@ -49,9 +49,8 @@ Here's the full video ...
 </div>
 
 
+<iframe width="560" height="415" src="https://youtu.be/VQ64lW8_v_4?si=EgxfZeJZEEbocl1N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<video width="100%" controls>
-  <source src="videos/Ride_v4.mp4" type="video/mp4"> </video>
 
 
 <div style="text-align: center; font-size: .9em;">
