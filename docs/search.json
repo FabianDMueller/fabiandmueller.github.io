@@ -5,98 +5,98 @@
       "title": "BioFB",
       "author": [],
       "contents": "\n\nSlow-Paced Breathing in VR\n\n\nVOICE: FABIAN MUELLER | EXTRA: AMIRA BÜTTNER | PRODUCED: NEW MEDIA CENTER UNIVERSITY OF BASEL\n\n\n\n\n\nEngage in a guided, slow-paced breathing VR training designed to reduce stress. We develop VR calming and rewarding VR experiences that promote relaxation and stress relief through guided breathing exercises.\n\n\n\nMore information coming soon.\n\n\n\n\n\n\n\n\n",
-      "last_modified": "2024-07-02T16:19:52+02:00"
+      "last_modified": "2024-07-02T17:13:35+02:00"
     },
     {
       "path": "contact.html",
       "title": "Hello.",
       "author": [],
       "contents": "\n\nFabian D. Mueller \n\n\nResearch Cluster Molecular and Cognitive Neurosciences \nDepartment of Biomedicine \nUniversity of Basel \nBirmannsgasse 8, 4055 Basel, Switzerland \n fabi.mueller@unibas.ch\n\n\n ORCID\n\n\n Google Scholar\n\n\n ResearchGate\n\n\n Twitter\n\n\n\n\n\n\n\n",
-      "last_modified": "2024-07-01T22:01:46+02:00"
+      "last_modified": "2024-07-02T17:13:35+02:00"
     },
     {
       "path": "echtzeit.html",
       "title": "Echtzeit",
       "author": [],
       "contents": "\n\nEchtzeit\n\n\nELEKTRONICS: JOSUA WEHNER | KEYS: SEVERIN SCHERRER | BASS: MARC ZÜST | DRUMS: FABIAN MUELLER\n\n\n\n\n\nWith our music quartet, Echtzeit, we aimed to harmonize the lively essence of acoustic music with the technical possibilities of electronic music.\nDrawing inspiration from jazz virtuosos such as Brad Mehldau and drummers like Jojo Mayers, we’ve crafted a unique sound that blends the rhythmic intensity of drum n bass with the complex harmonies of jazz.\n\n\n\n\n\n\n\n\nCheck out our sound on Spotify.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-      "last_modified": "2024-07-01T22:01:47+02:00"
+      "last_modified": "2024-07-02T17:13:36+02:00"
     },
     {
       "path": "fearless.html",
       "title": "Fearless Speech",
       "author": [],
       "contents": "\n\nFearless Speech\n\n\nA Virtual Reality Gaze Exposure Treatment to Reduce Fear of Public Speaking\n\n\n\n\n\nWe developed a stand-alone gaze exposure treatment in virtual reality (VR) to test the potential of reducing gaze avoidance to reduce anxiety. The gaze exposure trained the maintenance of eye contact with audiences across progressively challenging social scenarios.\n\n\nVR Gaze Exposure Application\n\n\n\n\n\n\n\n\nThe figure displays a classroom (A), proximity (B), and lecture hall scenario (C) used in the gaze exposure treatment. From left to right, the social scenario increases in difficulty, with differences in audience size, proximity, and facial expressions. A green arrow indicates a target person for maintaining eye contact. After successfully holding eye contact with the target person over a predefined time as measured by gaze tracking, the arrow switched to the next target person to prompt a change of eye contact. Each level was repeated until the overall eye contact maintenance exceeded a predefined time threshold ranging from 56 to 96 seconds, depending on the level, and the user indicated low anxiety (i.e., < 3) on a state anxiety rating.\n\n\nSee here how this works…\n\n\n\n\nStudy Design\n\n\nIn a single-blind, randomized controlled trial, we evaluated the effectiveness of exposure to gaze in reducing state anxiety. Eighty-nine adult participants with subclinical PSA were assigned to either a gaze exposure treatment or a control group.\n\n\n\n\n\nAssessments occurred at baseline, following a one-hour acute intervention (Post 1), and three to five weeks after a two-weeks home treatment (Post 2). At each assessment, participants conducted a public speaking test (PST, see below). After a baseline PST, the participants of the treatment group underwent the gaze exposure treatment in VR for 3 × 20 min, while the participants of the control group explored virtual scenarios without social content. The second PST followed the procedure as the first one. Subsequently, the treatment group completed 9 × 20 min home treatment sessions with the gaze exposure app, while the control group did not receive any task. Three to five weeks after treatment completion of the treatment group, a third public speaking test was conducted.\n\n\nPublic Speaking Test\n\n\nWe tested treatment effects in a real-life public speaking situation. The primary Outcome was state anxiety during public speaking, assessed using the Subjective Units of Distress Scale.\nThe main secondary outcome was gaze avoidance during public speaking, as measured by eye-tracking.\n\n\n\n\n\n\nThe figure displays the view of the participant during the real-life public speaking test as recorded through a mobile eye-tracking system The public speaking test (PST) comprised ten minutes of semi-improvised speeches in front of an evaluation committee. Before the first and after every speech, participants indicated their state anxiety level on the Subjective Units of Distress Scale. During the speeches, we used eye tracking and a face detection algorithm to quantify gaze avoidance as the relative dwell time off faces of any committee members during public speaking. Here, A video frame is shown, recorded from the world camera of a mobile eye tracking system, representing a participant’s perspective during the public speaking test.\n\n\nResults\n\n\n\n\n\nThe figure displayes the effects of the gaze exposure treatment on state anxiety and gaze avoidance during public speaking. Linear mixed models’ analyses suggested no reduction regarding state anxiety or the relative dwell time off faces during the public speaking test in the treatment group immediately after 1-h gaze exposure (Post 1) compared to the control group. However, there was a beneficial effect on state anxiety (cohens d’ = 1.07) and gaze avoidance (cohens d’ = - 0.97) after additional home treatment (9 × 20 min), as evident by the difference between the groups one month after the intervention (Post 2).\n\n\nImplications\n\n\n• A two-week VR gaze exposure reduces state anxiety during public speaking. \n• VR gaze exposure requires no exposure to real people or any verbal interaction.\n• VR exposure apps offer accessible self-help tools at a low initiation threshold. \n\n\nPublication\n\n\nVirtual reality gaze exposure treatment reduces state anxiety during public speaking in individuals with public speaking anxiety: A randomized controlled trial @ Journal of Anxiety Disorders Reports\n\n\n\nBernhard Fehlmann1,5,\nFabian D Mueller1,5,\nNan Wang1,5,\nMerle K Ibach1,5,\nThomas Schlitt2,5,\nDorothée Bentz1,5,\nAnja Zimmer1,5,\nAndreas Papassotiropoulos2,3,4,5,\nDominique JF de Quervain1,4,5\n\nBernhard Fehlmann & Fabian D Mueller contributed equally to this work\n\n\nDivision of Cognitive Neuroscience, Department of Biomedicine, University of Basel, Birmannsgasse 8, Basel 4055, Switzerland\n\n\nDivision of Molecular Neuroscience, Department of Biomedicine, University of Basel, Basel 4055, Switzerland\n\n\nLife Sciences Training Facility, Department Biozentrum, University of Basel, Basel 4056, Switzerland\n\n\nUniversity Psychiatric Clinics, University of Basel, Basel 4002, Switzerland\n\n\nResearch Cluster Molecular and Cognitive Neurosciences, University of Basel, Basel 4055, Switzerland\n\n\n\nPoster\n\n\nThis work was presented at the 26th Annual CyberPsychology, CyberTherapy & Social Networking Conference\n(CYPSY26). It was honored with the 2023\nYoung Minds Research Award.\n\n\n\n\n\nClick the poster to view the full PDF\n\n\n\nIn the News\n\n\n• SwissInfo\n• Watson\n• Handelszeitung\n• Bilanz\n• Blick\n\n\n\n\n\n\n",
-      "last_modified": "2024-07-01T22:01:47+02:00"
+      "last_modified": "2024-07-02T17:13:37+02:00"
     },
     {
       "path": "hallucinations.html",
       "title": "Hallucinations",
       "author": [],
       "contents": "\n\nHow does our brain shape what we see?\n\n\n\nThis video explains how scientists think hallucinations occur in the brain by introducing the Predictive Processing framework. The video was produced by the New Media Center  of the University of Basel.\n\n\n\n\n\n\n\nIDEA: FABIAN MUELLER | PRODUCED: NEW MEDIA CENTER\n\n\n\n\n\n\n\n\n",
-      "last_modified": "2024-07-01T22:01:48+02:00"
+      "last_modified": "2024-07-02T17:13:37+02:00"
     },
     {
       "path": "hoffman.html",
       "title": "Hoffman's First Ride",
       "author": [],
       "contents": "\n\nHoffman’s First Ride\n\n\nInteractive installation presented at the Rausch - Extase - Rush Exhibition,  Historical Museum in Bern.\n\n\n\n\n\n\nIDEA AND TECHNICAL IMPLEMENTATION: THOMAS MOLL | FILM: FABIAN MÜLLER & RAMONDS JERMAKS |\nRESPONSIBILITY: EXPOFORUM GMBH | CONSTRUCTION IMPLEMENTATION: HISTORICAL MUSEUM BERN\n\n\nPartnering with Raimonds Jermaks (Symmetric-Vision), we created an interactive video installation that brings to life Albert Hoffmann’s first LSD trip, an event that occurred quite by accident in his laboratory in Basel. The installation invites participants to mount a bicycle, the pedalling of which triggers a captivating video, in which the visual effects of LSD gradually increase over time. The video is based on the path that Albert Hoffman took on his historic bicycle ride home, a journey during which he became the first human to ever experience the profound effects of LSD. \n\n\n\n\n\n\n\n\n\nHere’s the full video …\n\n\n\n\nDisclaimer: There is much more to psychedelic experiences than just funky visuals. We do not claim that this visualization captures the nature of such.\n\n\n\n\n\n\n",
-      "last_modified": "2024-07-01T22:01:48+02:00"
+      "last_modified": "2024-07-02T17:13:37+02:00"
     },
     {
       "path": "index.html",
       "title": "Hello.",
       "author": [],
       "contents": "\n\n\n\n\nI am a cognitive psychologist pursuing a PhD in Cognitive Neuroscience at the University of Basel, Switzerland and Yale University, USA. My broad aim is to develop straightforward and scalable treatment interventions for mental health, using the potential of contemporary technologies, with a focus on immersive technologies like AR and VR.\nWith a background in Psychology, Philosophy, and Neuroscience, I am most fundamentally interested in understanding how our brains constructs our phenomenological reality.  To understand this, I study perceptual processing in individuals who perceive reality differently (i.e., psychosis). My approach embeds perceptual decision-making in virtual reality simulations of altered perception.\n\n\n\n\n\n\n",
-      "last_modified": "2024-07-01T22:01:48+02:00"
+      "last_modified": "2024-07-02T17:13:38+02:00"
     },
     {
       "path": "LiveSet.html",
       "title": "LiveSet",
       "author": [],
       "contents": "\n\n\n\n\n\n\n\nWith Noe Weigl, who introduced me to and taught me a lot about electronic music production, we checked out how we could perform semi-life electronic music using analog drum machines (Analog Rytm), analog (Novation Peak, Sub 37) and virtual (mostly Diva & friends) Synthesizers, and Ableton Live.\n\n\n\nNOE WEIGL & FABIAN MUELLER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBrüders et al. · LiveSet Noe & Faby @ Radiologisch\n\n\n\n\n\n\n\n\n",
-      "last_modified": "2024-07-01T22:01:49+02:00"
+      "last_modified": "2024-07-02T17:13:38+02:00"
     },
     {
       "path": "MRI.html",
       "title": "BioFB",
       "author": [],
       "contents": "\n\nVR Training for MRI Anxiety\n\n\nMRI SCANNER RECORDED AT UNIVERSITY HOSPITAL BASEL | RECORDED BY FABIAN MUELLER\n\n\n\n\n\nImmerse yourself in a virtual MRI environment designed to alleviate fears and enhance comfort. Our VR simulations offer a safe, controlled space to acclimate to MRI procedures, enabling a more relaxed and confident experience when it counts.\n\n\n\nMore information coming soon. Stay tuned!\n\n\n\n\n\n\n\n\n",
-      "last_modified": "2024-07-02T16:56:48+02:00"
+      "last_modified": "2024-07-02T17:13:39+02:00"
     },
     {
       "path": "music.html",
       "title": "Hoffman's First Ride",
       "author": [],
       "contents": "\n\nStrollology\n\n\nJOSHUA JAEGER | LOUIS OBERLI | LUKAS HUBER | ROMANO MADDALENA | FABIAN MUELLER\n\n\n\n\n\n\n\nBrüders et al. · Ergehungen\n\n\n\nStrollology is contemplative cultural and aesthetic method to raise awareness of the conditions of perception of the environment and to expand environmental perception. It is based on experimental reflexive walks and aesthetic interventions. Together with my friends, we often go for expanded sound-walks, in which we share our recent musical discoveries. Each of us puts together a short music set with his/her most recent treasure discoveries. We all press play at the exactly same time (this usually takes a few attempts — but exact synchronization is absolutely essential!), and then we walk and let the music guide our mind while enjoying the beauty of nature. \n\n\n\n\n\n\n",
-      "last_modified": "2024-07-02T16:20:59+02:00"
+      "last_modified": "2024-07-02T17:13:39+02:00"
     },
     {
       "path": "plexus.html",
       "title": "Sound Figures",
       "author": [],
       "contents": "\n\nSound Figures\n\n\nAudio Engineer Hannes Kumke, who recorded and mastered some tracks of our album Accretion Disk, visualized our track Plexus using water and light to reflect what our track looks like. The idea is based on Alexander Lauterwasser’s Kymatik-Cymatics - Sound Figures.\n\n\n\nELEKTRONICS: JOSUA WEHNER | DRUMS: FABIAN MUELLER | MASTERED AND VISUALIZED: HANNES KUMKE\n\n\n\n\n\n\n\n\n\n\n\n",
-      "last_modified": "2024-07-01T22:01:51+02:00"
+      "last_modified": "2024-07-02T17:13:40+02:00"
     },
     {
       "path": "psychosis.html",
       "title": "Altered Perception in Psychosis",
       "author": [],
       "contents": "\n\n\n\n\n\n\n\n“In our opinion, prevention of psychosis in the pre-psychotic precursor stages is possible.”\n\n\n— Gerd Huber, 1987\n\n\nPsychosis is characterized by hallucinations and delusions (fixed false beliefs). However, for most patients, the onset of full-blown psychotic symptoms is preceded by subtler changes in perception, thought and beliefs, which seem to be attenuated forms of hallucinations and delusions, respectively. The question remains whether these experiences in psychosis-prone individuals are fundamentally driven by perceptual anomalies or higher-order cognitive processes.\n\n\n\nTake a closer look at Mona. Do you notice anything unusual? What does that do to you? \n\n\n\n\n\n\n\nI’m currently updating this site. Stay tuned for more!\n\n\n\n\n\n\n",
-      "last_modified": "2024-07-02T17:04:59+02:00"
+      "last_modified": "2024-07-02T17:13:40+02:00"
     },
     {
       "path": "scismile.html",
       "title": "SciSmile",
       "author": [],
       "contents": "\n\nSciSmile\n\n\nWith SciSmile, we aim to offer a scientifically-grounded, straightforward tool to promote psychological well-being and resilience in the face of stress.\n\n\n\n\n\n\nSciSmile is a smartphone application designed to improve well being and reduce stress through the power of smiling. SciSmile simulates reciprocal smiling interactions using videos of smiling people. The app tracks when users smile and triggers a responsive video of a person smiling back, thereby creating positive social feedback.\n\n\nA Glimpse of the App\n\n\n\n\n\n\n\n\nBut Can It Effectively Reduce Stress?\n\n\nWe launched the SciSmile app on both the Android and Apple App stores in 2021 to assess its appeal and potential effectiveness in the general population. The primary focus was to determine if such an intervention could effectively reduce stress levels and elevate mood. Preliminary results from an anonymous online pilot study in Switzerland showed that a two-week training with SciSmile has strong potential for reducing stress and enhancing mood.\n\n\n\n\nHowever, we could not conclude whether these beneficial effects were primarily the result of the smiling intervention or if they could be attributed to other factors such as placebo effects or regression to the mean. To get a better idea we launched a second app, SciMem, a simple smartphone memory game app. And, interestingly, we found comparable effects.\nThus, it remains to be determined what explains the beneficial effects observed in both our apps. To answer this question, we are currently conducting a three-arm RCT to test the efficacy of SciSmile and SciMem, compared to a waitlist control.\n\n\nThe Efficacy of SciSMile vs SciMem on Stress: A Three-Arm RCT\n\n\n\n\n\nExample Screenshots from the SciSmile & SciMem App. Left: SciSmile; Right: SciMem.\n\n\n\nMore information about the study coming soon.\n\n\n\n\n\n\n\n",
-      "last_modified": "2024-07-02T16:58:34+02:00"
+      "last_modified": "2024-07-02T17:13:41+02:00"
     },
     {
       "path": "stages.html",
       "title": "Stages",
       "author": [],
       "contents": "\n\nScenic Architecture\n\n\nI am part of Pantasia, a raving DIY collective designing experiences at music and art festivals. \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-      "last_modified": "2024-07-01T22:01:52+02:00"
+      "last_modified": "2024-07-02T17:13:41+02:00"
     }
   ],
   "collections": []
