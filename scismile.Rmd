@@ -29,12 +29,6 @@ SciSmile is a smartphone application designed to improve well being and reduce s
 </div>
 
 <hr style="width:60%;">
-
-
-<div style="text-align: center; padding-top: 0em; font-size: 1.2em; font-family: 'Alata', sans-serif;">
-A Glimpse of the App
-</div>
-
 ```{r, echo=FALSE, out.width = "100%"}
 knitr::include_graphics("images/scismile2.png")
 
@@ -53,33 +47,18 @@ knitr::include_graphics("images/scismile1.png")
 <hr style="width:60%;">
 
 <div style="text-align: left; padding-top: 0em; font-size: 1.2em; font-family: 'Alata', sans-serif;">
-But Can It Effectively Reduce Stress?
+Can it effectively reduce stress?
+
 </div>
 
 <div style="text-align: justify; font-size: 1em; line-height: 1.7;">
 
 
-We launched the SciSmile app on both the Android and Apple App stores in 2021 to assess its appeal and potential effectiveness in the general population. The primary focus was to determine if such an intervention could effectively reduce stress levels and elevate mood. Preliminary results from an anonymous online pilot study in Switzerland showed that a two-week training with SciSmile has strong potential for reducing stress and enhancing mood.
+We launched the SciSmile app on both the Android and Apple App stores in 2021 to assess its appeal and effectiveness in the general population. The primary focus was to determine if such an intervention could effectively reduce stress levels and elevate mood. Preliminary results from our anonymous online pilot study in Switzerland suggest that a two-week training with SciSmile has strong potential for reducing stress and enhancing mood.
 
-<br>
+One year later, we launched SciMem, a simple smartphone memory game app. Interestingly, we found comparable effects.
 
-
-```{r, echo=FALSE, out.width = "80%", fig.align = "center"}
-knitr::include_graphics("images/scismile10.png")
-
-
-```
-
-However, we could not conclude whether these beneficial effects were primarily the result of the smiling intervention or if they could be attributed to other factors such as placebo effects or regression to the mean. To get a better idea we launched a second app, SciMem, a simple smartphone memory game app. And, interestingly, we found comparable effects.
-
-
-Thus, it remains to be determined what explains the beneficial effects observed in both our apps. To answer this question, we are currently conducting a three-arm RCT to test the efficacy of SciSmile and SciMem, compared to a waitlist control. 
-</div>
-
-<hr style="width:60%;">
-
-<div style="text-align: center; padding-top: 0em; font-size: 1.2em; font-family: 'Alata', sans-serif;">
-The Efficacy of SciSMile vs SciMem on Stress: A Three-Arm RCT
+Thus, it remains to be determined whether these beneficial effects are primarily the result of the apps or if they could be attributed to other factors such as placebo effects or regression to the mean. To answer this question, we are conducting a three-arm RCT to test the efficacy of SciSmile and SciMem, compared to a waitlist control. 
 </div>
 
 ```{r, echo=FALSE, out.width = "100%"}
@@ -91,17 +70,27 @@ knitr::include_graphics("images/comparison.png")
 Example Screenshots from the SciSmile & SciMem App. Left: SciSmile; Right: SciMem.
 </div>
 
+
+	 
 <hr style="width:60%;">
 
-<div style="text-align: center; font-size: 1.5em;">
+<div style="text-align: center; padding-top: 0em; font-size: 1.2em; font-family: 'Alata', sans-serif;">
+Comparison of the efficacy of two smartphone apps on stress: <br> a three arm RCT 
+
 <br>
-More information about the study coming soon.
+
 </div>
 
 
-	        
-<!-- The trial is currently ongoing and preregistered on OSF. We are excited to see the results and hope to gain a better understanding of the mechanisms underlying the beneficial effects of these apps. -->
 
+```{r, echo=FALSE, out.width = "100%"}
+knitr::include_graphics("images/SciSmileFlyer.jpg")
+
+```
+<div style="text-align: center; font-size: 1em; line-height: 1.7;">
+
+Here is the flyer for our upcoming study, set to begin in September 2024. The official study website and the OSF preregistration will be launched by August.
+</div>
 
 
 ```{r setup, include=FALSE}
