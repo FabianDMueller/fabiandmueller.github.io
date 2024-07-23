@@ -46,7 +46,7 @@ In this video, we explains how scientists think hallucinations occur in the brai
 <div style="text-align: justify; font-size: 1em;">
 <br>
   <br>
-Learn more about our <a href="https://fabianmuellermcn.github.io/FabianDMueller/psychosis.html" target="_blank" style="text-decoration: none; color: #1a73e8;">ongoing study</a>, where we use VR to induce hallucination-like phenomena to disentangle the perceptual decision-making factors that contribute to the emergence of visual disturbances.
+Learn more about our <a href="https://fabiandmueller.github.io/psychosis.html" target="_blank" style="text-decoration: none; color: #1a73e8;">ongoing study</a>, where we use VR to induce hallucination-like phenomena to disentangle the perceptual decision-making factors that contribute to the emergence of visual disturbances.
 
   <br>
   <br>
