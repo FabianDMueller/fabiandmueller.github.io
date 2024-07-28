@@ -3,8 +3,6 @@ title: "Hello."
 site: distill::distill_website
 ---
 
-
-
 <div style="text-align: center; padding-top: 2em; font-size: 2.2em">
   <br>
   <br>
@@ -20,7 +18,7 @@ site: distill::distill_website
   University of Basel <br>
   Birmannsgasse 8, 4055 Basel, Switzerland <br>
   <br>
- <a href="mailto:fabi.mueller@unibas.ch" style="color: #000000; text-decoration: none;">
+  <a href="mailto:fabi.mueller@unibas.ch" style="color: #000000; text-decoration: none;">
     <i class="fas fa-envelope"></i> fabi.mueller@unibas.ch
   </a>
   <br>
@@ -42,6 +40,11 @@ site: distill::distill_website
   <br>
   <a href="https://twitter.com/Fabian__Mueller" target="_blank" style="color: #000000; text-decoration: none;">
     <i class="fab fa-twitter"></i> Twitter
+  </a>
+  <br>
+  <br>
+  <a href="pdf/CV_MuellerFabian_04_2023.pdf" target="_blank" style="color: #000000; text-decoration: none;">
+    <i class="fas fa-file-pdf"></i> Download CV
   </a>
 </div>
 
