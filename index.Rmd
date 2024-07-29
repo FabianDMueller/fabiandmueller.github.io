@@ -3,7 +3,8 @@ title: "Hello."
 site: distill::distill_website
 ---
 
-
+<div style="text-align: center; padding-top: 4em;">
+</div> 
 
 <div style="text-align: center; padding-top: 4em;">
 ```{r, echo=FALSE, out.width = "50%"}
@@ -16,6 +17,9 @@ I am a cognitive psychologist pursuing a PhD in Cognitive Neuroscience at the <a
 
 As a personal portfolio, this website showcases my scientific and artistic projects. <br>
 For my CV and further information, click on the top left icon.
+<br>
+
+
 </div> 
 
 <!-- With a background in Psychology, Philosophy, and Neuroscience, I am most fundamentally interested in understanding how our brains constructs our phenomenological reality. <br> To understand this, I study perceptual processing in individuals who perceive reality differently (i.e., psychosis). My approach embeds perceptual decision-making in virtual reality simulations of altered perception.  -->

@@ -4,8 +4,7 @@ site: distill::distill_website
 ---
 
 <div style="text-align: center; padding-top: 2em; font-size: 2.2em">
-  <br>
-  <br>
+
   <br>
   <br>
   <br>
