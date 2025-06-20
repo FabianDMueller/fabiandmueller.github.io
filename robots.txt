@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fabiandmueller.github.io/sitemap.xml
